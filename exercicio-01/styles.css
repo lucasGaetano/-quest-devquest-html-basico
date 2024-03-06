@@ -1,0 +1,14 @@
+h1 {
+    width: max-content;
+    border: 1px solid;
+    border-top: 20px solid wheat;
+    margin: 10px 50px 20px;
+}
+
+li{
+    margin: 20px;
+}
+
+h2{
+    margin: 1px;
+}
